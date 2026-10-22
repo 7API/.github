@@ -1,15 +1,18 @@
 <div align="center">
 
 <a href="https://7api.st/?utm_source=github&utm_medium=org&utm_campaign=7api">
-  <img src="assets/org-banner.gif" alt="7API — one key for frontier and open-weight AI models, including uncensored and abliterated variants" width="100%">
+  <img src="https://i.imgur.com/N5tb9s7.gif" width="600" alt="7API — one key for all frontier AI models">
 </a>
 
 # 7API
 
 **One API key for frontier and open-weight AI models — including uncensored and abliterated variants where available.**
 
-[![Website](https://img.shields.io/badge/website-7api.st-22c55e?style=flat&logo=googlechrome&logoColor=white)](https://7api.st/?utm_source=github&utm_medium=org&utm_campaign=7api)
-[![Telegram](https://img.shields.io/badge/Telegram-@seven__api-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/seven_api)
+<p>
+  <a href="https://7api.st/?utm_source=github&utm_medium=org&utm_campaign=7api"><img src="assets/get-api.svg" width="218" height="74" alt="Get API key"></a>
+  <a href="https://t.me/seven_api"><img src="assets/telegram-channel.svg" width="216" height="74" alt="Telegram Channel"></a>
+</p>
+
 [![API](https://img.shields.io/badge/API-OpenAI%20%2B%20Anthropic-0ea5e9?style=flat)](#)
 [![Billing](https://img.shields.io/badge/billing-pay%20per%20token-22c55e?style=flat)](#)
 
