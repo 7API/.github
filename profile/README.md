@@ -9,8 +9,9 @@
 **One API key for frontier and open-weight AI models — including uncensored and abliterated variants where available.**
 
 <p>
-  <a href="https://7api.st/?utm_source=github&utm_medium=org&utm_campaign=7api"><img src="assets/get-api.svg" width="218" height="74" alt="Get API key"></a>
+  <a href="https://7api.st/?utm_source=github&utm_medium=org&utm_campaign=7api"><img src="assets/visit-website.svg" width="208" height="74" alt="Visit website"></a>
   <a href="https://t.me/seven_api"><img src="assets/telegram-channel.svg" width="216" height="74" alt="Telegram Channel"></a>
+  <a href="https://t.me/hqclaudebot?start=github2"><img src="assets/telegram-bot.svg" width="183" height="74" alt="Telegram Bot"></a>
 </p>
 
 [![API](https://img.shields.io/badge/API-OpenAI%20%2B%20Anthropic-0ea5e9?style=flat)](#)
@@ -35,6 +36,7 @@
 - **Uncensored options** — select uncensored and abliterated variants.
 - **Pay per token** — no subscription; prompt caching and crypto top-ups.
 - **Built for teams** — subkeys, usage tracking and referrals.
+- **Flexible use cases** — coding agents, research, writing, editing, translation and more.
 
 ## Quick links
 
